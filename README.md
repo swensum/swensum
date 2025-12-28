@@ -1,6 +1,18 @@
-# 💫 About Me:
-I’m currently working on App Development<br>I’m looking to collaborate on Open-source contributions<br>I’m currently learning Advanced Flutter architecture (Clean / MVVM) and Backend optimisation & database performance<br>Ask me about app development<br>Tech Stack 💙 Flutter / Dart , 🔥 Firebase / Supabase, ⚛️ React / Next.js, 🗄️ SQL / API Integration<br>Fun fact, I love building apps that solve real-world problems!
+<div align="center">
 
+## 👋 I am Sumit Shrestha
+---
+🚀 <b>App Developer</b>  
+🎓 Graduate CSIT – Tribhuvan University  
+
+</div>
+
+🔭 I’m currently working on **App Development**<br>
+🤝 I’m looking to collaborate on **Open-source contributions**<br>
+🧠 I’m currently learning **Advanced Flutter Architecture (Clean / MVVM)** and **Backend Optimisation & Database Performance**<br>
+💬 Ask me about **App Development**<br>
+🛠 Tech Stack — 💙 Flutter / Dart • 🔥 Firebase / Supabase • ⚛️ React / Next.js • 🗄 SQL / API Integration<br>
+😄 Fun fact — I love building apps that solve real-world problems!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sumit shrestha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sraist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit shrestha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shresthaswen80@gmail.com) 
