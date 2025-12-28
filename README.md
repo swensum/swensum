@@ -1,7 +1,6 @@
 <div align="center">
 
 ## 👋 I am Sumit Shrestha
----
 🚀 <b>App Developer</b>  
 🎓 Graduate CSIT – Tribhuvan University  
 
